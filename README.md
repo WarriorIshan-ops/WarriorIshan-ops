@@ -38,7 +38,7 @@ Built an ETL pipeline using Python and Pandas to clean messy operational data an
 
 I am focused on roles such as:
 
-- Junior Data Analyst
+- Data Analyst
 - Business Analyst
 - Operations Analyst
 - Supply Chain Analyst
