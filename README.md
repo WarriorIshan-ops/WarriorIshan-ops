@@ -7,7 +7,7 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-Aspiring Data Analyst / Operations Analyst based in Germany.
+Data Analyst / Operations Analyst based in Germany.
 
 I build practical analytics projects using **SQL, Power BI, Python, Pandas, and Excel** with a focus on operational efficiency, process optimization, and business decision-making.
 
